@@ -1,0 +1,30 @@
+body{
+    background: url("http://www.technocrazed.com/wp-content/uploads/2015/12/beautiful-wallpaper-download-14.jpg");
+      background-size: cover;
+      color: lavender;
+}
+ header {
+      text-align: center;
+      color:lavender;
+    
+    }
+#img1{
+    width:250px;
+}
+.black{
+    color:black;
+    font-size: 15px;
+}
+.white{
+    font-size:15px;
+    color:lavender;
+}
+p{
+    font-size: 26px;
+}
+button{
+    color:black;
+}
+input{
+    color:black;
+}
