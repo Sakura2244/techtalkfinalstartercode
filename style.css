@@ -3,14 +3,28 @@ body{
       background-size: cover;
       color: lavender;
 }
- header {
+.row {
       text-align: center;
-      color:lavender;
-    
     }
-#img1{
-    width:250px;
+#title{
+     color:black;
+     border:solid;
+     border-color:blue;
+     font-family: 'Lobster', cursive;
 }
+#img1{
+    width:200px;
+    height:150px;
+    border:solid;
+    border-radius: 50px;
+    border-color:blue;
+}
+button {
+  position: relative;
+}
+#answer{
+    font-size: 80px;
+    }
 .black{
     color:black;
     font-size: 15px;
@@ -27,4 +41,8 @@ button{
 }
 input{
     color:black;
+}
+h1{
+    color:black;
+
 }
