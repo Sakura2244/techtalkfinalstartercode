@@ -1,5 +1,5 @@
 body{
-    background: url("http://www.technocrazed.com/wp-content/uploads/2015/12/beautiful-wallpaper-download-14.jpg");
+    background:url("http://www.technocrazed.com/wp-content/uploads/2015/12/beautiful-wallpaper-download-14.jpg");
       background-size: cover;
       color: lavender;
 }
@@ -23,7 +23,8 @@ button {
   position: relative;
 }
 #answer{
-    font-size: 80px;
+    font-size: 40px;
+    color:black;
     }
 .black{
     color:black;
