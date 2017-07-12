@@ -2,7 +2,7 @@
 
 $( document ).ready(function() {
     $("#sakura").click(function(){
-    for(var count = 0; count < 1; count = count ++){
+    for(var count = 0; count < 2; count = count +1){
         $("body").append('<img src="http://jpninfo.com/wp-content/uploads/2016/02/sakura-river.jpg">');
     }
 });
